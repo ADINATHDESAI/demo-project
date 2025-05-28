@@ -1,4 +1,4 @@
-# demo-project
+# Welcome to my awesome local project!
 My first Git demo project
 
 This is my first Git change.
