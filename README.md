@@ -8,3 +8,4 @@ This line is added from the feature branch.
 This line was added directly on GitHub to simulate a teammate's change.
 
 My temp change
+typo
