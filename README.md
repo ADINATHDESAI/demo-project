@@ -12,9 +12,4 @@ typo 2
 typo 3
 Bad commit
 
-
-
-
-# Testing stash command  In-progress work for stashing test
-
-# Stash 2
+New change in file 
