@@ -11,3 +11,4 @@ My temp change
 typo 2
 typo 3
 Bad commit
+Bad Commit 3
